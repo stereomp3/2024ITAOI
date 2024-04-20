@@ -1,6 +1,6 @@
 # ITAOI2024
 
-https://stereomp3.github.io/ITAOI2024/
+https://stereomp3.github.io/2024ITAOI/
 
 目前網頁已經完成，剩下細微內容須調整
 
